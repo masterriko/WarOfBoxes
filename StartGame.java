@@ -154,7 +154,7 @@ public class StartGame extends JPanel{
         }
     }
     public void create_box_blue(){
-        //creates blue box
+        //Creates blue box
         if (gold_blue > 0){
             Box box = new Box(gold_blue, false, this);
             Boxes_blue.add(box);
