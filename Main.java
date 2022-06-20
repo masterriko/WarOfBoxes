@@ -1,6 +1,7 @@
 import javax.swing.JFrame;
 import java.awt.Dimension;
 public class Main{
+    //Start game
     private static final int HEIGHT = 1024;
     private static final int WIDTH = 756;
     public static void main(String []args)throws InterruptedException {
